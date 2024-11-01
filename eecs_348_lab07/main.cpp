@@ -1,3 +1,11 @@
+/*
+Author: Sneha Thomas
+KUID: 3124266
+Lab: 07
+Lab Session: 1pm Friday
+Purpose: matrix manipulation
+*/
+
 #include <iostream>
 using namespace std;
 
